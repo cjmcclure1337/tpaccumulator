@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "accumulator-problems",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
